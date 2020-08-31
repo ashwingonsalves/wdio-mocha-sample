@@ -22,8 +22,8 @@
 * You can export the environment variables for the Username and Access Key of your BrowserStack account
   
   ```sh
-  export BROWSERSTACK_DEMO_USER=<browserstack-username> &&
-  export BROWSERSTACK_DEMO_KEY=<browserstack-access-key>
+  export BROWSERSTACK_USERNAME=<browserstack-username> &&
+  export BROWSERSTACK_ACCESS_KEY=<browserstack-access-key>
   ```
   
 ## Additional Resources
