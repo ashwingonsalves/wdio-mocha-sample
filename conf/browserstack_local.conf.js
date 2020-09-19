@@ -26,12 +26,12 @@ exports.config = {
         'os': 'Windows',
         'os_version': '10',
         'browser': 'Chrome',
-        'browser_version': '81.0',
+        'browser_version': 'latest',
         'resolution': '1280x800',
         'browserstack.local': true,
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }],
     
     logLevel: 'info',

@@ -18,7 +18,7 @@ exports.config = {
         // 'path/to/excluded/files'
     ],
     
-    maxInstances: 1,
+    maxInstances: 2,
     
     capabilities: [{
         'browserName' : 'iPhone',
@@ -27,7 +27,7 @@ exports.config = {
         'os_version' : '13',
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }, {
         'browserName' : 'android',
         'device' : 'Google Pixel 4 XL',
@@ -36,7 +36,7 @@ exports.config = {
         'browserstack.appium_version': '1.16.0',
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }],
     
     logLevel: 'info',

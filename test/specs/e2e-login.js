@@ -24,6 +24,7 @@ describe('E2E Test - Login', () => {
     it('Logout from app', () => {
         $('.button.secondary.radius').waitForExist()
         $('.button.secondary.radius').click()
+        browser.pause(2000)
         const checkLoginPage = $('h2')
         expect(checkLoginPage).toHaveText('Login Page')
         browser.saveScreenshot('./screenshots/theinternetapp_logout_check.png')

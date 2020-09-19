@@ -26,12 +26,12 @@ exports.config = {
         'os': 'Windows',
         'os_version': '10',
         'browser': 'Chrome',
-        'browser_version': '81.0',
+        'browser_version': 'latest',
         'resolution': '1280x800',
         'browserstack.local': true,
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }, {
         'os': 'Windows',
         'os_version': '10',
@@ -41,28 +41,28 @@ exports.config = {
         'browserstack.local': true,
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }, {
         'os': 'Windows',
         'os_version': '10',
         'browser': 'Firefox',
-        'browser_version': '76.0',
+        'browser_version': 'latest',
         'resolution': '1280x800',
         'browserstack.local': true,
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }, {
         'os': 'Windows',
         'os_version': '10',
         'browser': 'Edge',
-        'browser_version': '81.0',
+        'browser_version': 'latest',
         'resolution': '1280x800',
         'browserstack.local': true,
         'browserstack.use_w3c': true,
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v2'
+        'build': 'Sample Build'
     }],
     
     logLevel: 'info',

@@ -28,7 +28,7 @@ exports.config = {
         'resolution': '1280x800',
 
         'project': 'WebdriverIO Samples',
-        'build': 'Build v1'
+        'build': 'Sample Build'
     }],
     
     logLevel: 'info',
