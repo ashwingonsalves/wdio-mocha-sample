@@ -1,6 +1,8 @@
 # wdio-mocha-sample
 [WebdriverIO](http://webdriver.io/) Integration with BrowserStack.
 
+[![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=N21NNk1aZ3NRcHdDRmtWRWRoVWpHTjlNSEtESjI4SXR5dHh2T2owSFVrYz0tLUg3Nkpza01wL0lnaUJXZkZZNWUzdWc9PQ==--1021103c4a30a95df80fa2b8ab7f3b1f84c9faaa%)](https://automate.browserstack.com/public-build/N21NNk1aZ3NRcHdDRmtWRWRoVWpHTjlNSEtESjI4SXR5dHh2T2owSFVrYz0tLUg3Nkpza01wL0lnaUJXZkZZNWUzdWc9PQ==--1021103c4a30a95df80fa2b8ab7f3b1f84c9faaa%)
+
 ## Setup
 * Clone the repo
 * Install dependencies `npm install`
