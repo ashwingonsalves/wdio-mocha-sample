@@ -10,7 +10,7 @@
     "browserstack-mobile": "wdio ./conf/browserstack_mobile.conf.js",
     "browserstack-local": "wdio ./conf/browserstack_local.conf.js",
     "browserstack-local-parallel": "wdio ./conf/browserstack_local_parallel.conf.js",
-    "sample-jenkins-report": "wdio ./conf/sample.report.conf.js"
+    "jenkins-report": "wdio ./conf/jenkins.report.conf.js"
   },
   "author": "Ashwin G",
   "license": "ISC",
